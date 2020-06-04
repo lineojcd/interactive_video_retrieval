@@ -1,0 +1,11 @@
+flask
+requests
+h5py
+numpy
+sqlalchemy
+Flask-SQLAlchemy
+torch
+sentence-transformers
+opencv-python
+keras
+tensorflow
