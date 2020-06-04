@@ -1,7 +1,5 @@
 
-# Seminar-Interactive-Video-Retrieval
-UZH Seminar: Interactive Video Retrieval
-
+# UZH Seminar-Interactive-Video-Retrieval
 Group member: Andreas Bucher, Gaudenz Halter, Xiao’ao Song, Kevin Steijn
 
 Team: AGXK-20
